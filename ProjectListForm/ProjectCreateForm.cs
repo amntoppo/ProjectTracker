@@ -31,5 +31,10 @@ namespace ProjectListForm
         {
 
         }
+
+        private void ProjectCreateForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

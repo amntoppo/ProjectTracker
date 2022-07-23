@@ -127,6 +127,7 @@
             this.Controls.Add(this.label1);
             this.Name = "ProjectCreateForm";
             this.Text = "Form2";
+            this.Load += new System.EventHandler(this.ProjectCreateForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
